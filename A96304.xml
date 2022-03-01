@@ -1,0 +1,1248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas it is certified under the hands of very many mercers of the chief towns of North and South-Wales (who are the only traders in books there) that there are very few divinity-books in the Welsh-language to be sold there ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96304</idno>
+            <idno type="STC">Wing W1623A</idno>
+            <idno type="STC">ESTC R43816</idno>
+            <idno type="EEBO-CITATION">42475277</idno>
+            <idno type="OCLC">ocm 42475277</idno>
+            <idno type="VID">151441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas it is certified under the hands of very many mercers of the chief towns of North and South-Wales (who are the only traders in books there) that there are very few divinity-books in the Welsh-language to be sold there ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1675?</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church work with the poor --  Wales --  Early works to 1800.</term>
+               <term>Books and reading --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151441:1" rendition="simple:additions"/>
+            <p>WHereas it is Certified under the Hands of very many Mercers of the chief Towns in North and South-<hi>Wales</hi> (who are the only Traders in Books there) That there are very few Di<g ref="char:EOLhyphen"/>vinity-Books in the <hi>Welſh</hi>-Language to be ſold there; And to the beſt of their knowledg, not one <hi>Welſh</hi>-Bible to be bought at any rate, although greatly deſired by Perſons of all Ranks and Conditions: It would be a ſingular work of Charity tending to the good of Thouſands, who otherwiſe may be deſtitute of the means of Knowledg, to contribute, as towards the Printing of ſome Pi<g ref="char:EOLhyphen"/>ous Treatiſes in the <hi>Welſh</hi>-Language, to be freely given away to poor Perſons and Families there; ſo eſpe<g ref="char:EOLhyphen"/>cially towards the Printing of the <hi>Welſh</hi>-Bible in <hi>Octavo,</hi> which will ſhortly be put to the Preſs.</p>
+            <p>And in regard that few poor Children are there brought up to Reading, it is another good work of Charity, to raiſe and maintain ſeveral Schools, for teaching the pooreſt of the <hi>Welſh</hi>-Children to read <hi>Engliſh,</hi> and the Boys to learn to Write and caſt Accounts; whereby they will be enabled to read our <hi>Engliſh</hi> Bibles and Treatiſes, to be more ſerviceable to their Country, and to live more comfortably in the World. We therefore whoſe Names are under-written, do promiſe to contribute, during our plea<g ref="char:EOLhyphen"/>ſure, towards the Printing the <hi>Welſh</hi>-Bible, and other Licenſed Treatiſes, to be freely given away to ſuch poor people as can read them, and are not able to buy Books; as alſo towards the Teaching of poor <hi>Welſh</hi>-Children to read <hi>Engliſh,</hi> Write, and caſt Accounts, in ſuch Towns where Schools for that purpoſe are not already erected and ſetled by the Charity of others. Provided that this charitable and pious work be ordered and managed by Dr. <hi>Tillotſon</hi> Dean of <hi>Canterbury,</hi> and the reſt whoſe Names are after-written.</p>
+            <closer>
+               <signed>We whoſe Names are under-written, do promiſe our greateſt care in managing the Money given to the above-mentioned charitable and pious works.
+<list>
+                     <item>
+                        <hi>John Tillotſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Whichcott.</hi>
+                     </item>
+                     <item>
+                        <hi>Simon Ford.</hi>
+                     </item>
+                     <item>
+                        <hi>William Bates.</hi>
+                     </item>
+                     <item>
+                        <hi>William Outram.</hi>
+                     </item>
+                     <item>
+                        <hi>Simon Patrick.</hi>
+                     </item>
+                     <item>
+                        <hi>William Durham.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Stillingfleet.</hi>
+                     </item>
+                     <item>
+                        <hi>John Meriton.</hi>
+                     </item>
+                     <item>
+                        <hi>Hezekiah Burton.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Baxter.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Gouge.</hi>
+                     </item>
+                     <item>
+                        <hi>Mathew Pool.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Fowler.</hi>
+                     </item>
+                     <item>
+                        <hi>William Turner.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Newman.</hi>
+                     </item>
+                     <item>
+                        <hi>James Reading.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Firmin.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Norton.</hi>
+                     </item>
+                     <item>
+                        <hi>John du Bois.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="account">
+            <head>An Account of what hath been done this laſt year from <hi>Michaelmas 1674,</hi> to <hi>Michaelmas 1675,</hi> in purſuance of the aforeſaid Truſt, upon the encouragement given by divers Ho<g ref="char:EOLhyphen"/>nourable and worthy Perſons to this Pious and Charitable deſign.</head>
+            <p n="1">I. THere have been bought, and diſtributed in ſeveral Families Thirty-two <hi>Welſh</hi>-Bibles, as alſo Four hundred ſeventy-nine New Teſtaments in <hi>Welſh,</hi> which were all that could be had in <hi>Wales</hi> or <hi>London.</hi>
+            </p>
+            <p n="2">II. Five hundred <hi>Whole Duties of Man,</hi> in <hi>Welſh;</hi> bought and diſpoſed of in like manner.</p>
+            <p n="3">III. Two thouſand and five hundred of a Treatiſe called, <hi>The Practice of Piety;</hi> with ſome hundreds of other Licenſed Treatiſes, tranſlated into <hi>Welſh,</hi> are now Printing, and almoſt finiſhed; which are to be freely given to poor People in <hi>Wales.</hi>
+            </p>
+            <p n="4">IV. In Eighty-ſix of the chief Towns and Pariſhes in <hi>Wales,</hi> Eleven hundred ſixty-two poor Children are put to School to learn to read <hi>Engliſh,</hi> and the Boys to learn to Write and caſt Accounts, over and above the Two hundred put to School the laſt year by the Charity of others, before this Truſt began.</p>
+            <p>Which Pious and charitable undertaking hath already provoked divers of the Landlords and Inhabitants of ſeveral Towns and Pariſhes in <hi>Wales,</hi> to put Eight hundred ſixty-three of the pooreſt <hi>Welſh</hi> Children to School upon their own account. So that Two thouſand two hundred and twenty-five in all, are already put to School.</p>
+            <p>As more particularly appeareth by the following Account.</p>
+            <pb n="2" facs="tcp:151441:2"/>
+            <p>
+               <table>
+                  <head>The Names of the Towns and Pariſhes in North and South-<hi>Wales,</hi> in which the Pooreſt of the <hi>Welſh</hi>-Children are put to School to learn to read <hi>Engliſh,</hi> and the Boys to learn to Write; upon the Charity of divers worthy Perſons in <hi>England</hi> and <hi>Wales.</hi> As alſo the Number of poor Scholars in each Town and Pariſh, with the Names of the Miniſter and Church-Warden, or chief Magiſtrate, in each Pariſh, who have certified the truth thereof under their hands.</head>
+                  <row>
+                     <cell role="label">In <hi>Car<g ref="char:EOLhyphen"/>marthen<g ref="char:EOLhyphen"/>ſhire</hi>
+                     </cell>
+                     <cell role="label">Number of Scholars.</cell>
+                     <cell cols="2"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Laughborne</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Mich. Owen,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Lewis,</hi> Church-warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Penboyne</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Edmond Myrrick,</hi> Rector.</cell>
+                     <cell>
+                        <hi>John Philips,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lanboydy</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Walter Philips,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Walter Rees,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Cleeres</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Will. Evans,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Wheeler Jones,</hi> Church-War.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Marrows</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Mick. Owen,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>David Price,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llanelthy</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Roger Proſſer,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Henr. Dunell,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llandovery</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>John Griffith,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Rees Bevan,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kidwelly</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>David Evanſon,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Will. Dyer,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lan<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ct<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ny</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Edmond Meyrick,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Hopkin,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llandiowrer</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Walter Philips,</hi> Rector.</cell>
+                     <cell>
+                        <hi>John Eaton,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carmarthen</hi> Town</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>John Williams,</hi> Mayor.</cell>
+                     <cell>
+                        <hi>John Scurlock,</hi> Alderman.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Pem<g ref="char:EOLhyphen"/>broke<g ref="char:EOLhyphen"/>ſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carew</hi> Town</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Lewis Boddor,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Phelps,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lampeder Welfry</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>George Owen,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Will. Willy,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ſmoſton</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Phineas Whiteſoot,</hi> Rector.</cell>
+                     <cell>
+                        <hi>John Viltot,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pembroke</hi> Town</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Nic. Stokes,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Hughs,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Haverford-weſt</hi>
+                     </cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>John Bateman,</hi> Mayor.</cell>
+                     <cell>
+                        <hi>John Williams,</hi> Alderman.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nolton</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>John Llewhellin,</hi> Miniſter.</cell>
+                     <cell>
+                        <hi>James Higgin,</hi> Church-Ward</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Treſgarn</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>John Llewhellin,</hi> Miniſter.</cell>
+                     <cell>
+                        <hi>James Higgin,</hi> Church-Ward</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rawdy</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>George Williams,</hi> Curate.</cell>
+                     <cell>
+                        <hi>Owen David,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Freſtrop</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Maurice Williams,</hi> Rector.</cell>
+                     <cell>
+                        <hi>John Lloyd,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Langham</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Maurice Williams,</hi> Rector.</cell>
+                     <cell>
+                        <hi>John Lloyd,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">N. of S.</cell>
+                     <cell cols="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Martheltwy</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Iohn Criffith,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Tho. Philips,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Slehbiſh</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Maurice Williams,</hi> Curate.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roch-Pariſh.</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Iohn Saice,</hi> Church-Wardens.</cell>
+                     <cell>
+                        <hi>Iohn Roblin,</hi> Church-Wardens.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coſheſton</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Morgan Davies,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Tho. Hancock,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tenby</hi>
+                     </cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Ioſeph Critchley,</hi> Mayor.</cell>
+                     <cell>
+                        <hi>Iames Lloyd,</hi> Alderman.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Narbarth</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>George Owen,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Iohn Thornbrough,</hi> Ward.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Gla<g ref="char:EOLhyphen"/>morgan<g ref="char:EOLhyphen"/>ſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cardiff</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>Guil. Evans,</hi> Clerk.</cell>
+                     <cell>
+                        <hi>Lewis Cox,</hi> Church-War.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Margam</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Iohn Lougher,</hi> Curate.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cunfigg</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>William Edwards,</hi> Ward.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Nicolas</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>William Button,</hi> Eſquire.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lancarvan</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Iohn Iones,</hi> Eſquire.</cell>
+                     <cell>
+                        <hi>Oliver Iones,</hi> Gentlem.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lantrithed</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Edm. Waters,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Iohn Courtney,</hi> Ch. Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Mary Hill</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Edm. Waters,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Iohn Courtney,</hi> Ch. Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Penmark</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Iohn Iones,</hi>
+                        <abbr>Eſq</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>St. Hilary</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Oliver Iones</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wenvoe</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Ien. Chriſtophers,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Will. David,</hi> Ch. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cowbridge</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Iohn Wyndham,</hi>
+                        <abbr>Eſq</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Swanſey</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Man Mathews,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Anth: Iones,</hi> Ch. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Neath</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Godwin Lewis,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Thomas Hopkin,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llandilotabout</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Pe. Meyrick,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Will Iohns,</hi> Chu. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bridg-End</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Nath. Gamage,</hi> Clerk.</cell>
+                     <cell>
+                        <hi>W. Chriſtopher,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bettus</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Iohn Hutton,</hi> Curate.</cell>
+                     <cell>
+                        <hi>Evan Lewis,</hi> Ch. Ward.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Breck<g ref="char:EOLhyphen"/>nockshire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brecknock</hi>-Town</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Meredith Penry,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Dan. Herberth,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hay</hi>-Town</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Henry Proſſer,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Ja. Watkins,</hi> Warden.</cell>
+                  </row>
+                  <pb n="3" facs="tcp:151441:2"/>
+                  <row>
+                     <cell role="label">In <hi>Mon<g ref="char:EOLhyphen"/>mouth<g ref="char:EOLhyphen"/>ſhire.</hi>
+                     </cell>
+                     <cell role="label">N. of S.</cell>
+                     <cell cols="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chepſtow</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Henry Allen,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Tho. Goſlin,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lantriſſent</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Henry Evans,</hi> Clerk.</cell>
+                     <cell>
+                        <hi>Moſes Daniel,</hi> Church-warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Newport</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Tho. Powell,</hi> Clerk.</cell>
+                     <cell>
+                        <hi>Tho. Baſſet,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caerlion</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Char. Hurchins,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Philip Gwyn,</hi> Chur-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Langiby</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Trever Williams,</hi> Knight and Baronet.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mac<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>n</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>William Morgan;</hi>
+                        <abbr>Eſq</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Baſslogg</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>William Morgan;</hi>
+                        <abbr>Eſq</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>sk.</hi>
+                     </cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Phineas Roger,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Thomas Iones,</hi> Ch.-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Monmouth</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>Rick. Ballard,</hi> Mayor.</cell>
+                     <cell>
+                        <hi>Will. Bellamy,</hi> Baliff,</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Abergavenny</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Iohn Grenhaugh,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Ioſeph Haits,</hi> Chur.-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bont be Pool</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Caple Hanbury,</hi>
+                        <abbr>Eſq</abbr>
+                     </cell>
+                     <cell>
+                        <hi>Tho. Iones,</hi> Gent.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Michelſtone de Vedo</hi>
+                     </cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Rich. Praunch,</hi> Curate.</cell>
+                     <cell>
+                        <hi>Tho. Evans,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Cardi<g ref="char:EOLhyphen"/>ganſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cardigan</hi>-Town</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Iohn Morrice,</hi> Mayor.</cell>
+                     <cell>
+                        <hi>B. Young;</hi> Alderman.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lambeder</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Rees Powell,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>David Tho<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>as,</hi> Ch.-warden.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Mon<g ref="char:EOLhyphen"/>gomery<g ref="char:EOLhyphen"/>ſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Myvad</hi>
+                     </cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Randle Davies,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Jones,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Welſh-Pool</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Sam. Davies,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Humphrey Draper,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kinnerly</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Hugh Gethin,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Evan Davies,</hi> Church-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llanchfrochwell</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Tho. Peeres,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Step. Thomas,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oſweſtry</hi>
+                     </cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Rich. Edwards,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Edw. Rogers,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Rad<g ref="char:EOLhyphen"/>norſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>New Radnor</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Hugh Watkins,</hi> Chur. Warden.</cell>
+                     <cell>
+                        <hi>Iames Bedward,</hi> Chur. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Knighton</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Rob. Milward,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Iohn Maſon,</hi> Church-Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Preſtain</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0</cell>
+                     <cell>
+                        <hi>Phil. Lewis,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Hugh Howel,</hi> Church Warden.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Car<g ref="char:EOLhyphen"/>narvan: ſhire</hi>
+                     </cell>
+                     <cell role="label">N. of S.</cell>
+                     <cell cols="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carnarvan</hi>-Town</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Row<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Williams,</hi> Vicar.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Conweigh</hi>
+                     </cell>
+                     <cell>36</cell>
+                     <cell>
+                        <hi>Roberts Roberts,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Will. Pryther,</hi> Ch.-Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llandegay</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Robert Williams,</hi> Knight and Baronet.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llanllechid.</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell cols="2"> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Den<g ref="char:EOLhyphen"/>highſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ruthe<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Robert Evans,</hi> Curate.</cell>
+                     <cell>
+                        <hi>John Shurlock,</hi> Ch. Ward.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Denhigh</hi>-Town</cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>John Roberts,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>David Davies,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Markeweell</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Will. Hanmer.</hi> Vicar.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wrexham</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Will. Smith,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Hughs,</hi> Ch. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gresford</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Maurice Evans,</hi> Curate.</cell>
+                     <cell>
+                        <hi>John David,</hi> Ch. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Llanrwſt</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Henric. Sodorenſis.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Abergelly</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Will. Williams,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Whaley,</hi> Ch. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Holt</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Daniel Brown,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Nath. Paſnage,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In <hi>Flint<g ref="char:EOLhyphen"/>ſhire</hi>
+                     </cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bangor</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>Rich. Williams,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Tho. Pitſon,</hi> Ch. Warden</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flint</hi>-Town</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Henry Thomas,</hi> Curate.</cell>
+                     <cell>
+                        <hi>Griffith Jones,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Northop</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>David Lloyd,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>John Jones,</hi> Ch. Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caerwys</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Tho. Gryffith,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Tho. Roberts,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mould</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Walter Williams,</hi> Vicar.</cell>
+                     <cell>
+                        <hi>Robert Jones,</hi> Warden.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ourton</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>Mich. Jones,</hi> Curate.</cell>
+                     <cell>
+                        <hi>Tho. Jones,</hi> Church-Wa.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Worthenbury</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Guil. Whittle,</hi> Curate.</cell>
+                     <cell>
+                        <hi>John Roberts,</hi> Ch. Ward.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Angleſy</cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>Bewmarri<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>48</cell>
+                     <cell>
+                        <hi>Will. Williams,</hi> Rector.</cell>
+                     <cell>
+                        <hi>Rich. Shaw,</hi> Ch. Warden.</cell>
+                  </row>
+               </table>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="4" facs="tcp:151441:3"/>
+                  <head>Here followeth a Teſtimonial under the hands of divers Honourable and Worthy Perſons, Deputy-Lieutenants, and Juſtices of the Peace, in ſeveral places of WALES, where the Schools are ſet up.</head>
+                  <p>WHereas there is a late Pious and Charitable Deſign ſet on foot, for the Teaching poor Children in <hi>Wales</hi> to Read and Write; and for the buying, printing, and giving away of Bibles, and other good Books in the <hi>Welſh</hi>-Language, for the uſe of poor Families there; which is managed by Dr. <hi>Tillotſon</hi> Dean of <hi>Canterbury,</hi> Dr. <hi>Whichcott,</hi> Dr. <hi>Stillingfleet,</hi> Dr. <hi>Ford,</hi> Dr. <hi>Bates,</hi> Dr. <hi>Outram,</hi> Dr. <hi>Patrick,</hi> Dr. <hi>Meriton,</hi> Dr. <hi>Burton,</hi> Mr. <hi>Durham,</hi> Mr. <hi>Baxter,</hi> Mr. <hi>Pool,</hi> Mr. <hi>Fowler,</hi> Mr. <hi>Firmin,</hi> and ſome others. Which is alſo put in execution by the Charity of divers Honourable and Worthy Perſons, and by the care and diligence of Mr. <hi>Thomas Gouge.</hi> We whoſe Names are underwritten, having Perſonal knowledg of ſome places where it is executed, and certain information of others, do willingly teſtifie, that it is carried on with all impartiality and fidelity, and we hope, through Gods bleſſing, for many good and happy effects from it.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Edward Manſell.</hi>
+                           </item>
+                           <item>
+                              <hi>Edw. Harley.</hi>
+                           </item>
+                           <item>
+                              <hi>Jo. Awbrey.</hi>
+                           </item>
+                           <item>
+                              <hi>Eraſmus Philipps.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Moſton.</hi>
+                           </item>
+                           <item>
+                              <hi>Trever Williams.</hi>
+                           </item>
+                           <item>
+                              <hi>John Trevor.</hi>
+                           </item>
+                           <item>
+                              <hi>H. Owen.</hi>
+                           </item>
+                           <item>
+                              <hi>John Wyndham.</hi>
+                           </item>
+                           <item>
+                              <hi>Ev. Seys.</hi>
+                           </item>
+                           <item>
+                              <hi>Henric. Sodoret Monae.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Williams.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Morgan.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Hookes.</hi>
+                           </item>
+                           <item>
+                              <hi>VVill. Thomas.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <list>
+               <head>We having examined the Accompts, and peruſed the Originals of the foregoing Cer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> do hereby certifie the truth of them.</head>
+               <item>
+                  <hi>John Tillotſon.</hi>
+               </item>
+               <item>
+                  <hi>Benj. VVichcott.</hi>
+               </item>
+               <item>
+                  <hi>Simon Ford.</hi>
+               </item>
+               <item>
+                  <hi>VVill. Durham.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Stillingfleet.</hi>
+               </item>
+               <item>
+                  <hi>John Meriton.</hi>
+               </item>
+               <item>
+                  <hi>Hezekiah Burton.</hi>
+               </item>
+               <item>
+                  <hi>Mat. Pool.</hi>
+               </item>
+               <item>
+                  <hi>Edward Fowler.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Firmin.</hi>
+               </item>
+               <item>
+                  <hi>Henry Norton.</hi>
+               </item>
+               <item>
+                  <hi>John du Bois.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
